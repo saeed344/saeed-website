@@ -92,7 +92,7 @@ const About = () => {
             <FontAwesomeIcon icon={faPhone} />
             <b>Phone</b>
           </div>
-          <p>++923443820531</p>
+          <p>+923443820531</p>
         </div>
 
         {/* Location */}
