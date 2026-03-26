@@ -7,6 +7,8 @@ import {
   faMapMarkerAlt,
   faPhone,
   faUsers,
+  faBuilding,
+  faHome,  // ← Add this line
 } from "@fortawesome/free-solid-svg-icons";
 
 const About = () => {
@@ -23,7 +25,6 @@ const About = () => {
         <h1 className="text-2xl font-bold mb-4">About Me</h1>
 
         <div className="space-y-4 text-gray-700 leading-relaxed">
-
           <p>
             (اَلسَّلَامُ عَلَيْكُم‎) I am an Assistant Professor of Computer Science
             and a researcher in Bioinformatics and Artificial Intelligence, focusing on
@@ -44,7 +45,7 @@ const About = () => {
           </p>
 
           <p>
-            I previously served as Assistant Professor at the University of Management and
+            I previously served as an Assistant Professor at the University of Management and
             Technology (UMT), supervising BS and MS research in AI, bioinformatics,
             computer vision, and data science.
           </p>
@@ -67,13 +68,11 @@ const About = () => {
             PyTorch, TensorFlow, and scikit-learn, along with emerging areas such as
             explainable AI, protein language models, and biomedical data mining.
           </p>
-
         </div>
       </div>
 
       {/* RIGHT: BIO + CARDS */}
       <div className="w-full lg:w-[48%] space-y-5">
-
         <h1 className="text-2xl font-bold ml-2">Biography</h1>
 
         {/* Contact Card */}
@@ -86,23 +85,48 @@ const About = () => {
           <p>saeed.ahmad075@gmail.com</p>
         </div>
 
-        {/* Phone */}
+        {/* Phone - UPDATED */}
         <div className="p-5 border rounded-xl bg-white shadow-sm">
           <div className="flex items-center gap-2 mb-2">
             <FontAwesomeIcon icon={faPhone} />
             <b>Phone</b>
           </div>
-          <p>+46-073-6412410</p>
+          <p>+923443820531</p>
         </div>
 
-        {/* Location */}
+        {/* Location - Split into Permanent and Work Address */}
         <div className="p-5 border rounded-xl bg-white shadow-sm">
-          <div className="flex items-center gap-2 mb-2">
+          <div className="flex items-center gap-2 mb-4">
             <FontAwesomeIcon icon={faMapMarkerAlt} />
-            <b>Location</b>
+            <b className="text-lg">Address</b>
           </div>
-          <p>Buner, Khyber Pakhtunkhwa, Pakistan</p>
-          <p>Swabi, KPK, Pakistan</p>
+          
+          {/* Permanent Address */}
+          <div className="mb-4">
+            <div className="flex items-center gap-2 mb-2 text-blue-600">
+              <FontAwesomeIcon icon={faHome} />
+              <b>Permanent Address</b>
+            </div>
+            <p className="ml-6 text-gray-700">
+              Village and P.O Nawagai, Tehsil Mandanr,<br />
+              District Buner, Khyber Pakhtunkhwa,<br />
+              Pakistan
+            </p>
+          </div>
+
+          {/* Work Address */}
+          <div>
+            <div className="flex items-center gap-2 mb-2 text-green-600">
+              <FontAwesomeIcon icon={faBuilding} />
+              <b>Work Address</b>
+            </div>
+            <p className="ml-6 text-gray-700">
+              Department of Computer Science,<br />
+              University of Swabi,<br />
+              Swabi, Khyber Pakhtunkhwa,<br />
+              Pakistan
+            </p>
+          </div>
         </div>
 
         {/* Skills */}
@@ -138,7 +162,6 @@ const About = () => {
             Multimodal Learning, and Transformer-based Biomedical Applications.
           </p>
         </div>
-
       </div>
     </div>
   );
