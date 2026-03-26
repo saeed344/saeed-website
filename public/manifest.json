@@ -1,0 +1,48 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "name": "M. Saeed Ahmad",
+  "short_name": "M.Saeed",
+  "description": "",
+
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any "
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any "
+    },
+    {
+      "src": "/Saeed_pic.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any "
+    },
+    {
+      "src": "/favicon.ico",
+      "sizes": "114x114",
+      "type": "icon",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/Saeed_144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png",
+      "purpose": "any "
+    }
+  ]
+}
