@@ -48,7 +48,7 @@ const Carousel = () => {
             alt={`Saeed Profile Picture`}
           />
 
-          <h1 className="font-extrabold text-2xl">Saeed Ahmad</h1>
+          <h1 className="font-extrabold text-2xl">Saeed Ahmed</h1>
           <div className="w-full flex justify-center">
             <h4>PhD Computer Science and Technology (Bioinformatics)</h4>
           </div>

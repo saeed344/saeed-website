@@ -6,8 +6,8 @@ import Head from "next/head";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "M. Saeed Ahmad",
-  description: "Dr. M. Saeed Ahmad's Portfolio Website",
+  title: "M. Saeed Ahmed",
+  description: "Dr. Saeed Ahmed's Portfolio Website",
   manifest: "/manifest.json",
   authors: [{ name: "P2PClouds Dev Team", url: "https://p2pclouds.org/" }],
   creator: "P2PClouds Dev Team",
@@ -59,7 +59,7 @@ export default function RootLayout({
           content="It is an Dr. MR.Saeed Portfolio Website"
         />
         <meta name="keywords" content="Portolio, Doctor, P2P Cloud,PHD" />
-        <meta name="author" content="Zeeshan Ali" />
+        <meta name="author" content="Dr. Saeed Ahmed" />
         <meta name="theme-color" content="#000000" />
         <meta name="theme-color" content="#3579f6"/>
         <link

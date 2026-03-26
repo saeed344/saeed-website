@@ -86,6 +86,7 @@ const Editorial_ReviewerServices = () => {
               21. International Conference on Frontiers of Information
               Technology - COMSATS.
             </li>
+            <li> Bioinformatics Advances </li>
           </ul>
         </li>
       </ol>

@@ -30,8 +30,195 @@ const ResearchPublication = () => {
           </span>
           <h3 className="flex items-center mb-1 text-sm md:text-lg font-semibold text-gray-900 dark:text-white">
             Publications &nbsp;
-            <span className="text-gray-500">2024</span>
-          </h3>
+
+            <span classname = "text-gray-500">2025</span>
+            </h3>
+          </li>
+          <li>
+          <div className="flex gap-2">
+            <svg              
+            className="w-6 h-6 text-blue-800 dark:text-blue-300"
+              viewBox="0 0 24 24"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M4 4V20M8 12H20M20 12L16 8M20 12L16 16"
+                stroke="#000000"
+                strokeWidth="2"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              />
+            </svg>
+            <P className="max-w-[80%] break-words">
+              S Ahmed, N Schaduangrat, C Pipattanaboon, W Shoombuatong
+              <b>
+                {" "}
+                Accurate identification of broadly neutralizing antibodies against dengue virus based on deep stacking strategy with multi-perspective features
+              </b>
+              ,<i> Scientific Reports</i>, Volume , Issue , 2025, Pages bbab583. Nature Publishing Group UK.
+            </P>
+          </div>
+        </li>
+        <li>
+          <div className="flex gap-2">
+            <svg
+            className="w-6 h-6 text-blue-800 dark:text-blue-300"
+              viewBox="0 0 24 24"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M4 4V20M8 12H20M20 12L16 8M20 12L16 16"
+                stroke="#000000"
+                strokeWidth="2"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              />
+            </svg>
+            <P className="max-w-[80%] break-words">
+              S Ahmed, N Schaduangrat, P Chumnanpuen, SM H Mahmud, K O Michae Goh, W Shoombuatong
+              <b>
+                {" "}
+                BLSAM-TIP: Improved and robust identification of tyrosinase inhibitory peptides by integrating bidirectional LSTM with self-attention mechanism
+              </b>
+              ,<i> PloS one</i>, Volume 20, Issue 10, 2025, Pages e0333614. Public Library of Science.
+            </p>
+          </div>
+        </li>
+        <li>
+          <div className="flex gap-2">
+            <svg
+            className="w-6 h-6 text-blue-800 dark:text-blue-300"
+              viewBox="0 0 24 24"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M4 4V20M8 12H20M20 12L16 8M20 12L16 16"
+                stroke="#000000"
+                strokeWidth="2"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              />
+            </svg>
+
+            <P className="max-w-[80%] break-words">
+              S Ahmed, N Schaduangrat, I Meewan, W Shoombuatong
+              <b>
+                {" "}
+                DeepHDAC3i: Leveraging an Interpretable Deep Learning-based Framework for the Accelerated Discovery of HDAC3 Inhibitors
+              </b>
+              ,<i> IEEE Transactions on Computational Biology and Bioinformatics</i>, Volume 22, Issue 6, 2025, Pages 2453 - 2464. IEEE.
+            </p>
+          </div>
+        </li>
+        <li>
+          <div className="flex gap-2">
+            <svg
+              className="w-6 h-6 text-blue-800 dark:text-blue-300"
+              viewBox="0 0 24 24"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M4 4V20M8 12H20M20 12L16 8M20 12L16 16"
+                stroke="#000000"
+                strokeWidth="2"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              />
+            </svg>
+
+            <P className="max-w-[80%] break-words">
+              S Ahmed, N Schaduangrat, P Chumnanpuen, W Shoombuatong;
+              <b>
+                {" "}
+                GRU4ACE: Enhancing ACE inhibitory peptide prediction by integrating gated recurrent unit with multi‐source feature embeddings
+              </b>
+              ,<i> Protein Science </i>, Volume 3346, Issue 6, 2025, Pages e70026. John Wiley & Sons, Inc..
+            </p>
+          </div>
+        </li>
+        <li>
+          <div className="flex gap-2">
+            <svg
+              className="w-6 h-6 text-blue-800 dark:text-blue-300"
+              viewBox="0 0 24 24"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M4 4V20M8 12H20M20 12L16 8M20 12L16 16"
+                stroke="#000000"
+                strokeWidth="2"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              />
+            </svg>
+            <p className="max-w-[80%] break-words">
+              M Gill, M Kabir, S Ahmed, M A Subhani, M Hayat
+              <b>
+                {" "}
+                A Comparative Review and Analysis of Computational Predictors for Identification of Enhancer and their Strength
+              </b>
+              ,<i> Current Bioinformatics</i>, Volume 20, Issue 4, 2025, Pages 323-343.Bentham Science Publishers.
+            </p>
+          </div>
+        </li>
+        <li>
+          <div className="flex gap-2">
+            <svg
+              className="w-6 h-6 text-blue-800 dark:text-blue-300"
+              viewBox="0 0 24 24"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M4 4V20M8 12H20M20 12L16 8M20 12L16 16"
+                stroke="#000000"
+                strokeWidth="2"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              />
+            </svg>
+
+            <p className="max-w-[80%] break-words">
+              W Shoombuatong, S Ahmed, SM H Mahmud, N Schaduangrat
+              <b>
+                {" "}
+                A comprehensive review and evaluation of machine learning-based approaches for identifying tumor T cell antigens
+              </b>
+              ,<i> Computational Biology and Chemistry </i>, Volume 18, 2025, Pages 108440. Elsevier.
+            </p>
+          </div>
+        </li>
+        <li>
+          <div className="flex gap-2">
+            <svg
+              className="w-6 h-6 text-blue-800 dark:text-blue-300"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M4 4V20M8 12H20M20 12L16 8M20 12L16 16"
+                stroke="#000000"
+                strokeWidth="2"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              />
+            </svg>
+            <p className="max-w-[80%] break-words">
+              W Shoombuatong, N Schaduangrat, N Homdee, <b>S Ahmed</b>, P
+              Chumnanpuen;
+              <b>
+                {" "}
+                Advancing the accuracy of tyrosinase inhibitory peptides
+                prediction via a multiview feature fusion strategy
+              </b>
+              ,<i> Scientific Reports</i>, Volume 15, Issue 1, 2025, Pages 4762.
+              Nature Publishing Group UK.
+            </p>
+          </div>
         </li>
         <li>
           <div className="flex gap-2">
