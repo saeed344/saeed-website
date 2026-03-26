@@ -7,6 +7,8 @@ import {
   faMapMarkerAlt,
   faPhone,
   faUsers,
+  faBuilding,
+  faHome,  // ← Add this line
 } from "@fortawesome/free-solid-svg-icons";
 
 const About = () => {
@@ -23,7 +25,6 @@ const About = () => {
         <h1 className="text-2xl font-bold mb-4">About Me</h1>
 
         <div className="space-y-4 text-gray-700 leading-relaxed">
-
           <p>
             (اَلسَّلَامُ عَلَيْكُم‎) I am an Assistant Professor of Computer Science
             and a researcher in Bioinformatics and Artificial Intelligence, focusing on
@@ -67,13 +68,11 @@ const About = () => {
             PyTorch, TensorFlow, and scikit-learn, along with emerging areas such as
             explainable AI, protein language models, and biomedical data mining.
           </p>
-
         </div>
       </div>
 
       {/* RIGHT: BIO + CARDS */}
       <div className="w-full lg:w-[48%] space-y-5">
-
         <h1 className="text-2xl font-bold ml-2">Biography</h1>
 
         {/* Contact Card */}
@@ -86,13 +85,13 @@ const About = () => {
           <p>saeed.ahmad075@gmail.com</p>
         </div>
 
-        {/* Phone */}
+        {/* Phone - UPDATED */}
         <div className="p-5 border rounded-xl bg-white shadow-sm">
           <div className="flex items-center gap-2 mb-2">
             <FontAwesomeIcon icon={faPhone} />
             <b>Phone</b>
           </div>
-          <p>+92-3443820531</p>
+          <p>+923443820531</p>
         </div>
 
         {/* Location - Split into Permanent and Work Address */}
@@ -109,7 +108,7 @@ const About = () => {
               <b>Permanent Address</b>
             </div>
             <p className="ml-6 text-gray-700">
-              Village ParmBuner, Tehsil Gadezai,<br />
+              Village and P.O Nawagai, Tehsil Mandanr<br />
               District Buner, Khyber Pakhtunkhwa,<br />
               Pakistan
             </p>
@@ -163,7 +162,6 @@ const About = () => {
             Multimodal Learning, and Transformer-based Biomedical Applications.
           </p>
         </div>
-
       </div>
     </div>
   );
