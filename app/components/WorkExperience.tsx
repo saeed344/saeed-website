@@ -30,7 +30,7 @@ const WorkExperience = () => {
             <span className="text-gray-500 text-sm">Department of Computer Science</span>
           </div>
           <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
-            September 29th, 2024 till present
+            September 29th, 2024, till presen
           </time>
           <a
             href="https://www.uoswabi.edu.pk/"
@@ -61,7 +61,7 @@ const WorkExperience = () => {
             <span className="text-gray-500 text-sm">Biomedical Center (BMC)</span>
           </div>
           <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
-            September 10th, 2023 till present
+            September 10th, 2023 to 7 November, 2024
           </time>
           <a
             href="https://www.lunduniversity.lu.se/"
