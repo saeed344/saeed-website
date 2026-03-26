@@ -44,7 +44,7 @@ const About = () => {
           </p>
 
           <p>
-            I previously served as Assistant Professor at the University of Management and
+            I previously served as an Assistant Professor at the University of Management and
             Technology (UMT), supervising BS and MS research in AI, bioinformatics,
             computer vision, and data science.
           </p>
@@ -92,17 +92,42 @@ const About = () => {
             <FontAwesomeIcon icon={faPhone} />
             <b>Phone</b>
           </div>
-          <p>+923443820531</p>
+          <p>+92-3443820531</p>
         </div>
 
-        {/* Location */}
+        {/* Location - Split into Permanent and Work Address */}
         <div className="p-5 border rounded-xl bg-white shadow-sm">
-          <div className="flex items-center gap-2 mb-2">
+          <div className="flex items-center gap-2 mb-4">
             <FontAwesomeIcon icon={faMapMarkerAlt} />
-            <b>Location</b>
+            <b className="text-lg">Address</b>
           </div>
-          <p>Buner, Khyber Pakhtunkhwa, Pakistan</p>
-          <p>Swabi, KPK, Pakistan</p>
+          
+          {/* Permanent Address */}
+          <div className="mb-4">
+            <div className="flex items-center gap-2 mb-2 text-blue-600">
+              <FontAwesomeIcon icon={faHome} />
+              <b>Permanent Address</b>
+            </div>
+            <p className="ml-6 text-gray-700">
+              Village ParmBuner, Tehsil Gadezai,<br />
+              District Buner, Khyber Pakhtunkhwa,<br />
+              Pakistan
+            </p>
+          </div>
+
+          {/* Work Address */}
+          <div>
+            <div className="flex items-center gap-2 mb-2 text-green-600">
+              <FontAwesomeIcon icon={faBuilding} />
+              <b>Work Address</b>
+            </div>
+            <p className="ml-6 text-gray-700">
+              Department of Computer Science,<br />
+              University of Swabi,<br />
+              Swabi, Khyber Pakhtunkhwa,<br />
+              Pakistan
+            </p>
+          </div>
         </div>
 
         {/* Skills */}
