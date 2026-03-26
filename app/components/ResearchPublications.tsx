@@ -7,11 +7,11 @@ const ResearchPublication = () => {
       data-aos-offset="200"
       data-aos-duration="500"
       data-aos-easing="ease-in-out"
-      className="bg-white shadow-2xl py-3 overflow-hidden rounded  text-justify"
+      className="bg-white shadow-2xl py-3 overflow-hidden rounded text-justify"
     >
-      <h1 className="text-2xl mb-2 pl-4 ">Research Publications:</h1>
-      <ol className="relative w-full mx-5 md:mx-10    dark:border-gray-700">
-        <li data-aos="fade-up" className="mb-5 ms-6 ">
+      <h1 className="text-2xl mb-2 pl-4">Research Publications:</h1>
+      <ol className="relative w-full mx-5 md:mx-10 dark:border-gray-700">
+        <li data-aos="fade-up" className="mb-5 ms-6">
           <span className="absolute flex items-center justify-center w-6 h-6 bg-blue-100 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">
             <svg
               className="w-8 h-8 text-blue-800 dark:text-blue-300"
@@ -30,14 +30,13 @@ const ResearchPublication = () => {
           </span>
           <h3 className="flex items-center mb-1 text-sm md:text-lg font-semibold text-gray-900 dark:text-white">
             Publications &nbsp;
-
-            <span classname = "text-gray-500">2025</span>
-            </h3>
-          </li>
-          <li>
+            <span className="text-gray-500">2025</span>
+          </h3>
+        </li>
+        <li>
           <div className="flex gap-2">
-            <svg              
-            className="w-6 h-6 text-blue-800 dark:text-blue-300"
+            <svg
+              className="w-6 h-6 text-blue-800 dark:text-blue-300"
               viewBox="0 0 24 24"
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
@@ -50,20 +49,20 @@ const ResearchPublication = () => {
                 strokeLinejoin="round"
               />
             </svg>
-            <P className="max-w-[80%] break-words">
+            <p className="max-w-[80%] break-words">
               S Ahmed, N Schaduangrat, C Pipattanaboon, W Shoombuatong
               <b>
                 {" "}
                 Accurate identification of broadly neutralizing antibodies against dengue virus based on deep stacking strategy with multi-perspective features
               </b>
               ,<i> Scientific Reports</i>, Volume , Issue , 2025, Pages bbab583. Nature Publishing Group UK.
-            </P>
+            </p>
           </div>
         </li>
         <li>
           <div className="flex gap-2">
             <svg
-            className="w-6 h-6 text-blue-800 dark:text-blue-300"
+              className="w-6 h-6 text-blue-800 dark:text-blue-300"
               viewBox="0 0 24 24"
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
@@ -76,8 +75,8 @@ const ResearchPublication = () => {
                 strokeLinejoin="round"
               />
             </svg>
-            <P className="max-w-[80%] break-words">
-              S Ahmed, N Schaduangrat, P Chumnanpuen, SM H Mahmud, K O Michae Goh, W Shoombuatong
+            <p className="max-w-[80%] break-words">
+              <b>Saeed Ahmed</b>, N Schaduangrat, P Chumnanpuen, SM H Mahmud, K O Michae Goh, W Shoombuatong
               <b>
                 {" "}
                 BLSAM-TIP: Improved and robust identification of tyrosinase inhibitory peptides by integrating bidirectional LSTM with self-attention mechanism
@@ -89,7 +88,7 @@ const ResearchPublication = () => {
         <li>
           <div className="flex gap-2">
             <svg
-            className="w-6 h-6 text-blue-800 dark:text-blue-300"
+              className="w-6 h-6 text-blue-800 dark:text-blue-300"
               viewBox="0 0 24 24"
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
@@ -102,9 +101,8 @@ const ResearchPublication = () => {
                 strokeLinejoin="round"
               />
             </svg>
-
-            <P className="max-w-[80%] break-words">
-              S Ahmed, N Schaduangrat, I Meewan, W Shoombuatong
+            <p className="max-w-[80%] break-words">
+              <b>Saeed Ahmed</b>, N Schaduangrat, I Meewan, W Shoombuatong
               <b>
                 {" "}
                 DeepHDAC3i: Leveraging an Interpretable Deep Learning-based Framework for the Accelerated Discovery of HDAC3 Inhibitors
@@ -129,14 +127,13 @@ const ResearchPublication = () => {
                 strokeLinejoin="round"
               />
             </svg>
-
-            <P className="max-w-[80%] break-words">
-              S Ahmed, N Schaduangrat, P Chumnanpuen, W Shoombuatong;
+            <p className="max-w-[80%] break-words">
+              <b>Saeed Ahmed</b>, N Schaduangrat, P Chumnanpuen, W Shoombuatong;
               <b>
                 {" "}
                 GRU4ACE: Enhancing ACE inhibitory peptide prediction by integrating gated recurrent unit with multi‐source feature embeddings
               </b>
-              ,<i> Protein Science </i>, Volume 3346, Issue 6, 2025, Pages e70026. John Wiley & Sons, Inc..
+              ,<i> Protein Science</i>, Volume 3346, Issue 6, 2025, Pages e70026. John Wiley & Sons, Inc..
             </p>
           </div>
         </li>
@@ -157,7 +154,7 @@ const ResearchPublication = () => {
               />
             </svg>
             <p className="max-w-[80%] break-words">
-              M Gill, M Kabir, S Ahmed, M A Subhani, M Hayat
+              M Gill, M Kabir, <b>Saeed Ahmed</b>, M A Subhani, M Hayat
               <b>
                 {" "}
                 A Comparative Review and Analysis of Computational Predictors for Identification of Enhancer and their Strength
@@ -182,14 +179,13 @@ const ResearchPublication = () => {
                 strokeLinejoin="round"
               />
             </svg>
-
             <p className="max-w-[80%] break-words">
-              W Shoombuatong, S Ahmed, SM H Mahmud, N Schaduangrat
+              W Shoombuatong, <b>Saeed Ahmed</b>, SM H Mahmud, N Schaduangrat
               <b>
                 {" "}
                 A comprehensive review and evaluation of machine learning-based approaches for identifying tumor T cell antigens
               </b>
-              ,<i> Computational Biology and Chemistry </i>, Volume 18, 2025, Pages 108440. Elsevier.
+              ,<i> Computational Biology and Chemistry</i>, Volume 18, 2025, Pages 108440. Elsevier.
             </p>
           </div>
         </li>
@@ -198,6 +194,8 @@ const ResearchPublication = () => {
             <svg
               className="w-6 h-6 text-blue-800 dark:text-blue-300"
               viewBox="0 0 24 24"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
             >
               <path
                 d="M4 4V20M8 12H20M20 12L16 8M20 12L16 16"
@@ -208,7 +206,7 @@ const ResearchPublication = () => {
               />
             </svg>
             <p className="max-w-[80%] break-words">
-              W Shoombuatong, N Schaduangrat, N Homdee, <b>S Ahmed</b>, P
+              W Shoombuatong, N Schaduangrat, N Homdee, <b>Saeed Ahmed</b>, P
               Chumnanpuen;
               <b>
                 {" "}
@@ -237,7 +235,7 @@ const ResearchPublication = () => {
               />
             </svg>
             <p className="max-w-[80%] break-words">
-              W Shoombuatong, N Schaduangrat, N Homdee, <b>S Ahmed</b>, P
+              W Shoombuatong, N Schaduangrat, N Homdee, <b>Saeed Ahmed</b>, P
               Chumnanpuen;
               <b>
                 {" "}
@@ -266,7 +264,7 @@ const ResearchPublication = () => {
               />
             </svg>
             <p className="max-w-[80%] break-words">
-              H Zhang, M Kabir, <b>S Ahmed</b>, M Vihinen;
+              H Zhang, M Kabir, <b>Saeed Ahmed</b>, M Vihinen;
               <b>
                 {" "}
                 There will always be variants of uncertain significance.
@@ -294,7 +292,7 @@ const ResearchPublication = () => {
               />
             </svg>
             <p className="max-w-[80%] break-words">
-              W Shoombuatong, <b>S Ahmed</b>, SM Hasan Mahmud, N Schaduangrat;
+              W Shoombuatong, <b>Saeed Ahmed</b>, SM Hasan Mahmud, N Schaduangrat;
               <b>
                 {" "}
                 A comprehensive review and evaluation of machine learning-based
@@ -322,7 +320,7 @@ const ResearchPublication = () => {
               />
             </svg>
             <p className="max-w-[80%] break-words">
-              W Shoombuatong, N Schaduangrat, N Homdee, <b>S Ahmed</b>, P
+              W Shoombuatong, N Schaduangrat, N Homdee, <b>Saeed Ahmed</b>, P
               Chumnanpuen;
               <b>
                 {" "}
@@ -351,7 +349,7 @@ const ResearchPublication = () => {
               />
             </svg>
             <p className="max-w-[80%] break-words">
-              M Kabir, <b>S Ahmed</b>,H Zhang, I Rodríguez-Rodríguez, S M
+              M Kabir, <b>Saeed Ahmed</b>,H Zhang, I Rodríguez-Rodríguez, S M
               Najibi, M Vihinen; PON-P3: Accurate Prediction of Pathogenicity of
               Amino Acid Substitutions,{" "}
               <i>International Journal of Molecular Sciences</i>, Volume
@@ -360,8 +358,8 @@ const ResearchPublication = () => {
           </div>
         </li>
       </ol>
-      <ol className="relative w-full mx-5 md:mx-10    dark:border-gray-700">
-        <li data-aos="fade-up" className="mb-5 ms-6 ">
+      <ol className="relative w-full mx-5 md:mx-10 dark:border-gray-700">
+        <li data-aos="fade-up" className="mb-5 ms-6">
           <span className="absolute flex items-center justify-center w-6 h-6 bg-blue-100 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">
             <svg
               className="w-8 h-8 text-blue-800 dark:text-blue-300"
@@ -399,9 +397,8 @@ const ResearchPublication = () => {
                     strokeLinejoin="round"
                   />
                 </svg>
-
                 <p className="max-w-[80%] break-words">
-                  A Amjad, <b>S Ahmed</b>,M Arif, T Alam, M Kabir*; A novel deep
+                  A Amjad, <b>Saeed Ahmed</b>,M Arif, T Alam, M Kabir*; A novel deep
                   learning identifier for promoters and their strength using
                   heterogeneous features, <i>Methods</i>, Volume 230, October
                   2024, Pages 119-128.
@@ -426,7 +423,7 @@ const ResearchPublication = () => {
                 </svg>
                 <p className="max-w-[80%] break-words">
                   M A Arshed, S Mumtaz, Stefan C Gherghina, N Urooj,{" "}
-                  <b>S Ahmed</b>, and C Dewi*; A Deep Learning Model for
+                  <b>Saeed Ahmed</b>, and C Dewi*; A Deep Learning Model for
                   Detecting Fake Medical Images to Mitigate Financial Insurance
                   Fraud, <i>Computation</i> 2024, 12(9), 173.
                 </p>
@@ -449,7 +446,7 @@ const ResearchPublication = () => {
                   />
                 </svg>
                 <p className="max-w-[80%] break-words">
-                  R Arif, <b>S Ahmed</b>,S Kanwal, M Kabir*; A Computational
+                  R Arif, <b>Saeed Ahmed</b>,S Kanwal, M Kabir*; A Computational
                   Predictor for Accurate Identification of Tumor Homing Peptides
                   by Integrating Sequential and Deep BiLSTM Features. [J]{" "}
                   <b>
@@ -460,7 +457,6 @@ const ResearchPublication = () => {
                 </p>
               </div>
             </li>
-
             <li>
               <div className="flex gap-2">
                 <svg
@@ -478,14 +474,13 @@ const ResearchPublication = () => {
                   />
                 </svg>
                 <p className="max-w-[80%] break-words">
-                  F Arshad, A Amjad, <b>S Ahmed</b>, M Kabir*; An explainable
+                  F Arshad, A Amjad, <b>Saeed Ahmed</b>, M Kabir*; An explainable
                   stacking-based approach for accelerating the prediction of
-                  antidiabetic peptides. [J] <b>Analytical Biochemistry </b>,
+                  antidiabetic peptides. [J] <b>Analytical Biochemistry</b>,
                   2024, 115546.
                 </p>
               </div>
             </li>
-
             <li>
               <div className="flex gap-2">
                 <svg
@@ -503,11 +498,11 @@ const ResearchPublication = () => {
                   />
                 </svg>
                 <p className="max-w-[80%] break-words">
-                  S Kanwal,R Arif, <b>S Ahmed</b> , M Kabir*; A novel
+                  S Kanwal,R Arif, <b>Saeed Ahmed</b> , M Kabir*; A novel
                   stacking-based predictor for accurate prediction of
                   antimicrobial peptides. [J]{" "}
                   <b>
-                    Journal of Biomolecular Structure and Dynamics, Taylor &
+                    Journal of Biomolecular Structure and Dynamics, Taylor &amp;
                     Francis{" "}
                   </b>
                   , 2024, 1-12
@@ -531,7 +526,7 @@ const ResearchPublication = () => {
                   />
                 </svg>
                 <p className="max-w-[80%] break-words">
-                  M A Arshed, H A Rehman, <b>S Ahmed</b> , C Dewi, and H J
+                  M A Arshed, H A Rehman, <b>Saeed Ahmed</b> , C Dewi, and H J
                   Christanto; A 16 × 16 Patch-Based Deep Learning Model for the
                   Early Prognosis of Monkeypox from Skin Color Images. [J]{" "}
                   <b>Computation - MDPI</b>, 2024, 12(2), 33
@@ -556,7 +551,7 @@ const ResearchPublication = () => {
                 </svg>
                 <p className="max-w-[80%] break-words">
                   M. A. Arshed, S. Mumtaz,M. Ibrahim,C. Dewi ,M. Tanveer and{" "}
-                  <b>S Ahmed;</b> Multiclass AI-Generated Deepfake Face
+                  <b>Saeed Ahmed;</b> Multiclass AI-Generated Deepfake Face
                   Detection Using Patch-Wise Deep Learning Model. [J]{" "}
                   <b>Computers- MDPI</b> , 2024, 13(1), 31
                 </p>
@@ -564,7 +559,7 @@ const ResearchPublication = () => {
             </li>
           </ol>
         </li>
-        <li data-aos="fade-up" className="mb-5 ms-6 ">
+        <li data-aos="fade-up" className="mb-5 ms-6">
           <span className="absolute flex items-center justify-center w-6 h-6 bg-blue-100 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">
             <svg
               className="w-8 h-8 text-blue-800 dark:text-blue-300"
@@ -585,7 +580,6 @@ const ResearchPublication = () => {
             Publications &nbsp;
             <span className="text-gray-500">2023</span>
           </h3>
-
           <ol>
             <li>
               <div className="flex gap-2">
@@ -628,7 +622,7 @@ const ResearchPublication = () => {
                   />
                 </svg>
                 <p className="max-w-[80%] break-words">
-                  M A Arshed, M Ibrahim, S Mumtaz, M Tanveer and <b>S Ahmed</b>{" "}
+                  M A Arshed, M Ibrahim, S Mumtaz, M Tanveer and <b>Saeed Ahmed</b>{" "}
                   ; Chem2Side: A Deep Learning Model with Ensemble Augmentation
                   (Conventional+ Pix2Pix) for COVID-19 Drug Side-Eﬀects
                   Prediction from Chemical Images. [J] <b>Information - MDPI</b>
@@ -653,31 +647,7 @@ const ResearchPublication = () => {
                   />
                 </svg>
                 <p className="max-w-[80%] break-words">
-                  M. A. Arshed., S.Mumtaz, M.Ibrahim, <b>S Ahmed, MTahir</b> .,
-                  & M. Shaﬁ; Multi-class skin cancer classiﬁcation using vision
-                  transformer networks and convolutional neural network-based
-                  pre-trained models. [J] <b>Information - MDPI</b> ,14(7), 415
-                </p>
-              </div>
-            </li>
-            <li>
-              <div className="flex gap-2">
-                <svg
-                  className="w-6 h-6 text-blue-800 dark:text-blue-300"
-                  viewBox="0 0 24 24"
-                  fill="none"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    d="M4 4V20M8 12H20M20 12L16 8M20 12L16 16"
-                    stroke="#000000"
-                    strokeWidth="2"
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                  />
-                </svg>
-                <p className="max-w-[80%] break-words">
-                  M. A. Arshed., S.Mumtaz, M.Ibrahim, <b>S Ahmed</b> , MTahir.,
+                  M. A. Arshed., S.Mumtaz, M.Ibrahim, <b>Saeed Ahmed, MTahir</b>.,
                   & M. Shaﬁ; Multi-class skin cancer classiﬁcation using vision
                   transformer networks and convolutional neural network-based
                   pre-trained models. [J] <b>Information - MDPI</b> ,14(7), 415
@@ -712,8 +682,7 @@ const ResearchPublication = () => {
             </li>
           </ol>
         </li>
-
-        <li data-aos="fade-up" className="mb-5 ms-6 ">
+        <li data-aos="fade-up" className="mb-5 ms-6">
           <span className="absolute flex items-center justify-center w-6 h-6 bg-blue-100 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">
             <svg
               className="w-8 h-8 text-blue-800 dark:text-blue-300"
@@ -734,7 +703,6 @@ const ResearchPublication = () => {
             Publications &nbsp;
             <span className="text-gray-500">2022</span>
           </h3>
-
           <ol>
             <li>
               <div className="flex gap-2">
@@ -841,8 +809,7 @@ const ResearchPublication = () => {
             </li>
           </ol>
         </li>
-
-        <li data-aos="fade-up" className="mb-5 ms-6 ">
+        <li data-aos="fade-up" className="mb-5 ms-6">
           <span className="absolute flex items-center justify-center w-6 h-6 bg-blue-100 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">
             <svg
               className="w-8 h-8 text-blue-800 dark:text-blue-300"
@@ -863,7 +830,6 @@ const ResearchPublication = () => {
             Publications &nbsp;
             <span className="text-gray-500">2021</span>
           </h3>
-
           <ol>
             <li>
               <div className="flex gap-2">
@@ -921,8 +887,7 @@ const ResearchPublication = () => {
             </li>
           </ol>
         </li>
-
-        <li data-aos="fade-up" className="mb-5 ms-6 ">
+        <li data-aos="fade-up" className="mb-5 ms-6">
           <span className="absolute flex items-center justify-center w-6 h-6 bg-blue-100 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">
             <svg
               className="w-8 h-8 text-blue-800 dark:text-blue-300"
@@ -943,7 +908,6 @@ const ResearchPublication = () => {
             Publications &nbsp;
             <span className="text-gray-500">2020</span>
           </h3>
-
           <ol>
             <li>
               <div className="flex gap-2">
@@ -1076,8 +1040,7 @@ const ResearchPublication = () => {
             </li>
           </ol>
         </li>
-
-        <li data-aos="fade-up" className="mb-5 ms-6 ">
+        <li data-aos="fade-up" className="mb-5 ms-6">
           <span className="absolute flex items-center justify-center w-6 h-6 bg-blue-100 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">
             <svg
               className="w-8 h-8 text-blue-800 dark:text-blue-300"
@@ -1098,7 +1061,6 @@ const ResearchPublication = () => {
             Publications &nbsp;
             <span className="text-gray-500">2019</span>
           </h3>
-
           <ol>
             <li>
               <div className="flex gap-2">
@@ -1228,8 +1190,7 @@ const ResearchPublication = () => {
             </li>
           </ol>
         </li>
-
-        <li data-aos="fade-up" className="mb-5 ms-6 ">
+        <li data-aos="fade-up" className="mb-5 ms-6">
           <span className="absolute flex items-center justify-center w-6 h-6 bg-blue-100 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">
             <svg
               className="w-8 h-8 text-blue-800 dark:text-blue-300"
@@ -1250,7 +1211,6 @@ const ResearchPublication = () => {
             Publications &nbsp;
             <span className="text-gray-500">2018</span>
           </h3>
-
           <ol>
             <li>
               <div className="flex gap-2">
@@ -1273,8 +1233,8 @@ const ResearchPublication = () => {
                   Arif, Farman Ali, Dong-Jun Yu; An Integrated Feature Selection
                   algorithm for Cancer Classification using Gene Expression
                   Data. [J]
-                  <b>Combinatorial Chemistry & High Throughput Screening</b> .
-                  2018, 21(9):631-645.
+                  <b>Combinatorial Chemistry &amp; High Throughput Screening</b>{" "}
+                  . 2018, 21(9):631-645.
                 </p>
               </div>
             </li>
@@ -1361,8 +1321,7 @@ const ResearchPublication = () => {
             </li>
           </ol>
         </li>
-
-        <li data-aos="fade-up" className="mb-5 ms-6 ">
+        <li data-aos="fade-up" className="mb-5 ms-6">
           <span className="absolute flex items-center justify-center w-6 h-6 bg-blue-100 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">
             <svg
               className="w-8 h-8 text-blue-800 dark:text-blue-300"
@@ -1383,7 +1342,6 @@ const ResearchPublication = () => {
             Publications &nbsp;
             <span className="text-gray-500">2017</span>
           </h3>
-
           <ol>
             <li>
               <div className="flex gap-2">
@@ -1412,8 +1370,7 @@ const ResearchPublication = () => {
             </li>
           </ol>
         </li>
-
-        <li data-aos="fade-up" className="mb-5 ms-6 ">
+        <li data-aos="fade-up" className="mb-5 ms-6">
           <span className="absolute flex items-center justify-center w-6 h-6 bg-blue-100 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">
             <svg
               className="w-8 h-8 text-blue-800 dark:text-blue-300"
@@ -1434,7 +1391,6 @@ const ResearchPublication = () => {
             Publications &nbsp;
             <span className="text-gray-500">2015</span>
           </h3>
-
           <ol>
             <li>
               <div className="flex gap-2">
@@ -1489,8 +1445,7 @@ const ResearchPublication = () => {
             </li>
           </ol>
         </li>
-
-        <li data-aos="fade-up" className="mb-5 ms-6 ">
+        <li data-aos="fade-up" className="mb-5 ms-6">
           <span className="absolute flex items-center justify-center w-6 h-6 bg-blue-100 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">
             <svg
               className="w-8 h-8 text-blue-800 dark:text-blue-300"
@@ -1510,7 +1465,6 @@ const ResearchPublication = () => {
           <h3 className="flex items-center mb-1 text-sm md:text-lg font-semibold text-gray-900 dark:text-white">
             Conference Papers &nbsp;
           </h3>
-
           <ol>
             <li>
               <div className="flex gap-2">

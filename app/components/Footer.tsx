@@ -12,7 +12,7 @@ const Footer = () => {
       <div className="flex flex-col items-center gap-2">
         <div className="w-full flex justify-center">
           <h4>&copy; Copyright {new Date().getFullYear()}</h4> &nbsp; &nbsp;
-          <h4>Dr. Saeed Ahmad</h4>
+          <h4>Dr. Saeed Ahmed</h4>
         </div>
 
         <div className="flex gap-4">
@@ -37,9 +37,9 @@ const Footer = () => {
           Developed by{" "}
           <a
             className="underline"
-            href="https://www.linkedin.com/in/zeeshan-ali-dev/"
+            href="https://www.linkedin.com/in/dr-saeed-ahmed-540709235/"
           >
-            Zeeshan Ali
+            Dr.Saeed Ahmed
           </a>
         </div>
       </div>
