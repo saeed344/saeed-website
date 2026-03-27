@@ -30,7 +30,7 @@ const WorkExperience = () => {
             <span className="text-gray-500 text-sm">Department of Computer Science</span>
           </div>
           <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
-            September 29th, 2024, till presen
+            September 29th, 2024, till present
           </time>
           <a
             href="https://www.uoswabi.edu.pk/"
@@ -54,9 +54,6 @@ const WorkExperience = () => {
           <div className="mb-1">
             <h3 className="flex items-center mb-1 text-sm md:text-lg font-semibold text-gray-900 dark:text-white">
               Researcher &nbsp;
-              <span className="bg-blue-100 text-blue-800 text-sm font-medium me-2 px-2.5 py-0.5 rounded dark:bg-blue-900 dark:text-blue-300 ms-3">
-                Latest
-              </span>
             </h3>
             <span className="text-gray-500 text-sm">Biomedical Center (BMC)</span>
           </div>
