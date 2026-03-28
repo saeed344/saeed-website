@@ -647,7 +647,7 @@ const ResearchPublication = () => {
                   />
                 </svg>
                 <p className="max-w-[80%] break-words">
-                  M. A. Arshed., S.Mumtaz, M.Ibrahim, <b>Saeed Ahmed, MTahir</b>.,
+                  M. A. Arshed., S.Mumtaz, M.Ibrahim, <b>Saeed Ahmed</b>, M Tahir,
                   & M. Shaﬁ; Multi-class skin cancer classiﬁcation using vision
                   transformer networks and convolutional neural network-based
                   pre-trained models. [J] <b>Information - MDPI</b> ,14(7), 415
