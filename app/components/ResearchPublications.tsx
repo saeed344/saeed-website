@@ -3,18 +3,19 @@ import React from "react";
 const ResearchPublication = () => {
   // Define publications data to avoid duplicates
   const publications2026 = [
-  {
-    authors: "<b>Saeed Ahmed</b>, [Other Authors Names]",
-    title: "[Your Paper Title Here]",
-    journal: "[Journal Name]",
-    volume: "[Volume Number]",
-    issue: "[Issue Number]",
-    pages: "[Page Numbers]",
-    publisher: "[Publisher Name]",
-    year: "2026"
-  },
-  // Add more papers here if needed, separated by commas
-];
+    {
+      authors: "<b>Saeed Ahmed</b>, [Other Authors Names]",
+      title: "[Your Paper Title Here]",
+      journal: "[Journal Name]",
+      volume: "[Volume Number]",
+      issue: "[Issue Number]",
+      pages: "[Page Numbers]",
+      publisher: "[Publisher Name]",
+      year: "2026"
+    },
+    // Add more papers here if needed, separated by commas
+  ];
+
   const publications2025 = [
     {
       authors: "<b>Saeed Ahmed</b>, N Schaduangrat, C Pipattanaboon, W Shoombuatong",
@@ -217,33 +218,34 @@ const ResearchPublication = () => {
       className="bg-white shadow-2xl py-3 overflow-hidden rounded text-justify"
     >
       <h1 className="text-2xl mb-2 pl-4">Research Publications:</h1>
-      {/* 2026 Publications */}
-      <li data-aos="fade-up" className="mb-5 ms-6">
-      / <span className="absolute flex items-center justify-center w-6 h-6 bg-blue-100 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">
-        <svg
-          className="w-8 h-8 text-blue-800 dark:text-blue-300"
-          viewBox="0 0 24 24"
-          fill="none"
-          xmlns="http://www.w3.org/2000/svg"
-        >
-          <path
-            d="M13 15L16 12M16 12L13 9M16 12H8M7.2 20H16.8C17.9201 20 18.4802 20 18.908 19.782C19.2843 19.5903 19.5903 19.2843 19.782 18.908C20 18.4802 20 17.9201 20 16.8V7.2C20 6.0799 20 5.51984 19.782 5.09202C19.5903 4.71569 19.2843 4.40973 18.908 4.21799C18.4802 4 17.9201 4 16.8 4H7.2C6.0799 4 5.51984 4 5.09202 4.21799C4.71569 4.40973 4.40973 4.71569 4.21799 5.09202C4 5.51984 4 6.07989 4 7.2V16.8C4 17.9201 4 18.4802 4.21799 18.908C4.40973 19.2843 4.71569 19.5903 5.09202 19.782C5.51984 20 6.07989 20 7.2 20Z"
-            stroke="#000000"
-            strokeWidth="2"
-            strokeLinecap="round"
-            strokeLinejoin="round"
-          />
-        </svg>
-      </span>
-      <h3 className="flex items-center mb-1 text-sm md:text-lg font-semibold text-gray-900 dark:text-white">
-        Publications &nbsp;
-        <span className="text-gray-500">2026</span>
-      </h3>
-      <ol>
-        {publications2026.map(renderPublication)}
-      </ol>
-      </li> 
       <ol className="relative w-full mx-5 md:mx-10 dark:border-gray-700">
+        {/* 2026 Publications */}
+        <li data-aos="fade-up" className="mb-5 ms-6">
+          <span className="absolute flex items-center justify-center w-6 h-6 bg-blue-100 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">
+            <svg
+              className="w-8 h-8 text-blue-800 dark:text-blue-300"
+              viewBox="0 0 24 24"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M13 15L16 12M16 12L13 9M16 12H8M7.2 20H16.8C17.9201 20 18.4802 20 18.908 19.782C19.2843 19.5903 19.5903 19.2843 19.782 18.908C20 18.4802 20 17.9201 20 16.8V7.2C20 6.0799 20 5.51984 19.782 5.09202C19.5903 4.71569 19.2843 4.40973 18.908 4.21799C18.4802 4 17.9201 4 16.8 4H7.2C6.0799 4 5.51984 4 5.09202 4.21799C4.71569 4.40973 4.40973 4.71569 4.21799 5.09202C4 5.51984 4 6.07989 4 7.2V16.8C4 17.9201 4 18.4802 4.21799 18.908C4.40973 19.2843 4.71569 19.5903 5.09202 19.782C5.51984 20 6.07989 20 7.2 20Z"
+                stroke="#000000"
+                strokeWidth="2"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              />
+            </svg>
+          </span>
+          <h3 className="flex items-center mb-1 text-sm md:text-lg font-semibold text-gray-900 dark:text-white">
+            Publications &nbsp;
+            <span className="text-gray-500">2026</span>
+          </h3>
+          <ol>
+            {publications2026.map(renderPublication)}
+          </ol>
+        </li>
+
         {/* 2025 Publications */}
         <li data-aos="fade-up" className="mb-5 ms-6">
           <span className="absolute flex items-center justify-center w-6 h-6 bg-blue-100 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">
@@ -270,9 +272,7 @@ const ResearchPublication = () => {
             {publications2025.map(renderPublication)}
           </ol>
         </li>
-      </ol>
 
-      <ol className="relative w-full mx-5 md:mx-10 dark:border-gray-700">
         {/* 2024 Publications */}
         <li data-aos="fade-up" className="mb-5 ms-6">
           <span className="absolute flex items-center justify-center w-6 h-6 bg-blue-100 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">
