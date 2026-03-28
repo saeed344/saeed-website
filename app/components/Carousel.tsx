@@ -21,6 +21,17 @@ const Carousel = () => {
     return () => clearInterval(interval);
   }, [images.length]);
 
+  // Smooth scroll to contact section
+  const scrollToContact = () => {
+    const contactSection = document.getElementById('contactus');
+    if (contactSection) {
+      contactSection.scrollIntoView({ 
+        behavior: 'smooth',
+        block: 'start'
+      });
+    }
+  };
+
   return (
     <div className="relative w-full">
       <div className="relative h-[30rem] sm:h-[28rem] md:h-[26rem] overflow-hidden dark:text-black">
@@ -52,7 +63,7 @@ const Carousel = () => {
 
           <h1 className="font-extrabold text-2xl">Saeed Ahmed</h1>
           <div className="w-full flex justify-center">
-            <h4>PhD Computer Science and Technology (Bioinformatics)</h4>
+            <h4>PhD in Computer Science and Technology (Bioinformatics)</h4>
           </div>
 
           <div className="flex gap-4">
@@ -75,12 +86,12 @@ const Carousel = () => {
             >
               Download CV
             </a>
-            <a
-              href="mailto:saeed.ahmad075@gmail.com"
-              className="p-3 border-2 bg-blue-800 border-white rounded-lg hover:bg-blue-700"
+            <button
+              onClick={scrollToContact}
+              className="p-3 border-2 bg-blue-800 border-white rounded-lg hover:bg-blue-700 cursor-pointer"
             >
               Contact ME
-            </a>
+            </button>
           </div>
         </div>
       </div>
