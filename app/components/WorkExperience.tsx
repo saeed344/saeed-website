@@ -11,10 +11,11 @@ const WorkExperience = () => {
     >
       <h1 className="text-2xl mb-2 pl-4">Work Experience:</h1>
       <ol className="relative w-full mx-5 md:mx-10 pr-10 text-justify border-s border-gray-200 dark:border-gray-700">
+        {/* University of Swabi - Current */}
         <li data-aos="fade-up" className="mb-10 ms-6">
-          <span className="absolute flex items-center justify-center w-6 h-6 bg-blue-100 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">
+          <span className="absolute flex items-center justify-center w-6 h-6 bg-green-500 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 animate-pulse">
             <svg
-              className="w-2.5 h-2.5 text-blue-800 dark:text-blue-300"
+              className="w-2.5 h-2.5 text-white"
               aria-hidden="true"
               xmlns="http://www.w3.org/2000/svg"
               fill="currentColor"
@@ -26,19 +27,61 @@ const WorkExperience = () => {
           <div className="mb-1">
             <h3 className="flex items-center mb-1 text-sm md:text-lg font-semibold text-gray-900 dark:text-white">
               Assistant Professor
+              <span className="ml-3 bg-green-100 text-green-800 text-xs font-medium px-2.5 py-0.5 rounded-full dark:bg-green-900 dark:text-green-300">
+                Current
+              </span>
             </h3>
             <span className="text-gray-500 text-sm">Department of Computer Science</span>
           </div>
           <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
-            September 29th, 2024, till present
+            September 29th, 2024 - Present
           </time>
           <a
             href="https://www.uoswabi.edu.pk/"
-            className="text-blue-700 font-bold text-sm md:text-lg"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-blue-700 font-bold text-sm md:text-lg hover:underline"
           >
             University of Swabi, Pakistan
           </a>
         </li>
+
+        {/* Mahidol University - Current */}
+        <li data-aos="fade-up" className="mb-10 ms-6">
+          <span className="absolute flex items-center justify-center w-6 h-6 bg-green-500 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 animate-pulse">
+            <svg
+              className="w-2.5 h-2.5 text-white"
+              aria-hidden="true"
+              xmlns="http://www.w3.org/2000/svg"
+              fill="currentColor"
+              viewBox="0 0 20 20"
+            >
+              <path d="M20 4a2 2 0 0 0-2-2h-2V1a1 1 0 0 0-2 0v1h-3V1a1 1 0 0 0-2 0v1H6V1a1 1 0 0 0-2 0v1H2a2 2 0 0 0-2 2v2h20V4ZM0 18a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V8H0v10Zm5-8h10a1 1 0 0 1 0 2H5a1 1 0 0 1 0-2Z" />
+            </svg>
+          </span>
+          <div className="mb-1">
+            <h3 className="flex items-center mb-1 text-sm md:text-lg font-semibold text-gray-900 dark:text-white">
+              Postdoctoral Researcher
+              <span className="ml-3 bg-green-100 text-green-800 text-xs font-medium px-2.5 py-0.5 rounded-full dark:bg-green-900 dark:text-green-300">
+                Current
+              </span>
+            </h3>
+            <span className="text-gray-500 text-sm">Center for Research Innovation and Biomedical Informatics, Faculty of Medical Technology</span>
+          </div>
+          <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
+            July 1st, 2024 - Present
+          </time>
+          <a
+            href="https://www.mahidol.ac.th/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-blue-700 font-bold text-sm md:text-lg hover:underline"
+          >
+            Mahidol University, Bangkok, 10700, Thailand
+          </a>
+        </li>
+
+        {/* Lund University */}
         <li data-aos="fade-up" className="mb-10 ms-6">
           <span className="absolute flex items-center justify-center w-6 h-6 bg-blue-100 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">
             <svg
@@ -53,20 +96,24 @@ const WorkExperience = () => {
           </span>
           <div className="mb-1">
             <h3 className="flex items-center mb-1 text-sm md:text-lg font-semibold text-gray-900 dark:text-white">
-              Researcher &nbsp;
+              Postdoctoral Research Fellow
             </h3>
             <span className="text-gray-500 text-sm">Biomedical Center (BMC)</span>
           </div>
           <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
-            September 10th, 2023 to 7 November, 2024
+            September 10th, 2023 - November 7th, 2024
           </time>
           <a
             href="https://www.lunduniversity.lu.se/"
-            className="text-blue-700 font-bold text-sm md:text-lg"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-blue-700 font-bold text-sm md:text-lg hover:underline"
           >
             Lund University, Sweden
           </a>
         </li>
+
+        {/* UMT Lahore */}
         <li data-aos="fade-up" className="mb-10 ms-6">
           <span className="absolute flex items-center justify-center w-6 h-6 bg-blue-100 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">
             <svg
@@ -86,15 +133,19 @@ const WorkExperience = () => {
             <span className="text-gray-500 text-sm">Department of Computer Sciences, SST</span>
           </div>
           <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
-            September 3rd, 2021 to September 10th, 2023
+            September 3rd, 2021 - September 10th, 2023
           </time>
           <a
             href="https://www.umt.edu.pk/"
-            className="text-blue-700 font-bold text-sm md:text-lg"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-blue-700 font-bold text-sm md:text-lg hover:underline"
           >
             University of Management and Technology (UMT), Lahore, Pakistan
           </a>
         </li>
+
+        {/* Mahidol University - Previous Postdoc */}
         <li data-aos="fade-up" className="mb-10 ms-6">
           <span className="absolute flex items-center justify-center w-6 h-6 bg-blue-100 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">
             <svg
@@ -114,11 +165,13 @@ const WorkExperience = () => {
             <span className="text-gray-500 text-sm">Center of Data Mining and Biomedical Informatics</span>
           </div>
           <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
-            June 1st, 2021 to February 28th, 2022
+            June 1st, 2021 - February 28th, 2022
           </time>
           <a
-            href="https://www.mu.edu/"
-            className="text-blue-700 font-bold text-sm md:text-lg"
+            href="https://www.mahidol.ac.th/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-blue-700 font-bold text-sm md:text-lg hover:underline"
           >
             Mahidol University, Bangkok, Thailand
           </a>
