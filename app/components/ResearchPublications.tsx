@@ -51,11 +51,11 @@ const ResearchPublication = () => {
             </svg>
             <p className="max-w-[80%] break-words">
              <b>Saeed Ahmed</b>, N Schaduangrat, C Pipattanaboon, W Shoombuatong
-              <b>
+              
                 {" "}
                 Accurate identification of broadly neutralizing antibodies against dengue virus based on deep stacking strategy with multi-perspective features
-              </b>
-              ,<i> Scientific Reports</i>, Volume , Issue , 2025, Pages bbab583. Nature Publishing Group UK.
+            
+              ,<i> <b>[J]{" "} Scientific Reports </b> </i>, Volume , Issue , 2025, Pages bbab583. Nature Publishing Group UK.
             </p>
           </div>
         </li>
@@ -77,11 +77,11 @@ const ResearchPublication = () => {
             </svg>
             <p className="max-w-[80%] break-words">
               <b>Saeed Ahmed</b>, N Schaduangrat, P Chumnanpuen, SM H Mahmud, K O Michae Goh, W Shoombuatong
-              <b>
+            
                 {" "}
                 BLSAM-TIP: Improved and robust identification of tyrosinase inhibitory peptides by integrating bidirectional LSTM with self-attention mechanism
-              </b>
-              ,<i> PloS one</i>, Volume 20, Issue 10, 2025, Pages e0333614. Public Library of Science.
+              
+              ,<i> <b>[J]{" "} PloS one </b></i>, Volume 20, Issue 10, 2025, Pages e0333614. Public Library of Science.
             </p>
           </div>
         </li>
@@ -103,11 +103,11 @@ const ResearchPublication = () => {
             </svg>
             <p className="max-w-[80%] break-words">
               <b>Saeed Ahmed</b>, N Schaduangrat, I Meewan, W Shoombuatong
-              <b>
+              
                 {" "}
                 DeepHDAC3i: Leveraging an Interpretable Deep Learning-based Framework for the Accelerated Discovery of HDAC3 Inhibitors
-              </b>
-              ,<i> IEEE Transactions on Computational Biology and Bioinformatics</i>, Volume 22, Issue 6, 2025, Pages 2453 - 2464. IEEE.
+              
+              ,<i> <b>[J]{" "} IEEE Transactions on Computational Biology and Bioinformatics </b></i>, Volume 22, Issue 6, 2025, Pages 2453 - 2464. IEEE.
             </p>
           </div>
         </li>
@@ -129,11 +129,11 @@ const ResearchPublication = () => {
             </svg>
             <p className="max-w-[80%] break-words">
               <b>Saeed Ahmed</b>, N Schaduangrat, P Chumnanpuen, W Shoombuatong;
-              <b>
+              
                 {" "}
                 GRU4ACE: Enhancing ACE inhibitory peptide prediction by integrating gated recurrent unit with multi‐source feature embeddings
-              </b>
-              ,<i> Protein Science</i>, Volume 3346, Issue 6, 2025, Pages e70026. John Wiley & Sons, Inc..
+              
+              ,<i> <b> [J]{" "} Protein Science</b></i>, Volume 3346, Issue 6, 2025, Pages e70026. John Wiley & Sons, Inc..
             </p>
           </div>
         </li>
@@ -155,11 +155,11 @@ const ResearchPublication = () => {
             </svg>
             <p className="max-w-[80%] break-words">
               M Gill, M Kabir, <b>Saeed Ahmed</b>, M A Subhani, M Hayat
-              <b>
+              
                 {" "}
                 A Comparative Review and Analysis of Computational Predictors for Identification of Enhancer and their Strength
-              </b>
-              ,<i> Current Bioinformatics</i>, Volume 20, Issue 4, 2025, Pages 323-343.Bentham Science Publishers.
+              
+              ,<i> <b>[J]{" "} Current Bioinformatics </b></i>, Volume 20, Issue 4, 2025, Pages 323-343.Bentham Science Publishers.
             </p>
           </div>
         </li>
@@ -181,11 +181,11 @@ const ResearchPublication = () => {
             </svg>
             <p className="max-w-[80%] break-words">
               W Shoombuatong, <b>Saeed Ahmed</b>, SM H Mahmud, N Schaduangrat
-              <b>
+              
                 {" "}
                 A comprehensive review and evaluation of machine learning-based approaches for identifying tumor T cell antigens
-              </b>
-              ,<i> Computational Biology and Chemistry</i>, Volume 18, 2025, Pages 108440. Elsevier.
+              
+              ,<i> <b>[J]{" "} Computational Biology and Chemistry </b></i>, Volume 18, 2025, Pages 108440. Elsevier.
             </p>
           </div>
         </li>
@@ -208,12 +208,12 @@ const ResearchPublication = () => {
             <p className="max-w-[80%] break-words">
               W Shoombuatong, N Schaduangrat, N Homdee, <b>Saeed Ahmed</b>, P
               Chumnanpuen;
-              <b>
+              
                 {" "}
                 Advancing the accuracy of tyrosinase inhibitory peptides
                 prediction via a multiview feature fusion strategy
-              </b>
-              ,<i> Scientific Reports</i>, Volume 15, Issue 1, 2025, Pages 4762.
+              
+              ,<i> <b>[J]{" "} Scientific Reports </b></i>, Volume 15, Issue 1, 2025, Pages 4762.
               Nature Publishing Group UK.
             </p>
           </div>
@@ -237,12 +237,12 @@ const ResearchPublication = () => {
             <p className="max-w-[80%] break-words">
               W Shoombuatong, N Schaduangrat, N Homdee, <b>Saeed Ahmed</b>, P
               Chumnanpuen;
-              <b>
+              
                 {" "}
                 Advancing the accuracy of tyrosinase inhibitory peptides
                 prediction via a multiview feature fusion strategy
-              </b>
-              ,<i> Scientific Reports</i>, Volume 15, Issue 1, 2025, Pages 4762.
+              
+              ,<i> <b>[J]{" "} Scientific Reports </b> </i>, Volume 15, Issue 1, 2025, Pages 4762.
               Nature Publishing Group UK.
             </p>
           </div>
@@ -265,12 +265,12 @@ const ResearchPublication = () => {
             </svg>
             <p className="max-w-[80%] break-words">
               H Zhang, M Kabir, <b>Saeed Ahmed</b>, M Vihinen;
-              <b>
+            
                 {" "}
                 There will always be variants of uncertain significance.
                 Analysis of VUSs
-              </b>
-              ,<i> NAR Genomics and Bioinformatics</i>, Volume 6, Issue 4, 2025,
+              
+              ,<i> <b> [J]{" "} NAR Genomics and Bioinformatics </b></i>, Volume 6, Issue 4, 2025,
               Article lqae154. Oxford University Press.
             </p>
           </div>
@@ -293,12 +293,11 @@ const ResearchPublication = () => {
             </svg>
             <p className="max-w-[80%] break-words">
               W Shoombuatong, <b>Saeed Ahmed</b>, SM Hasan Mahmud, N Schaduangrat;
-              <b>
-                {" "}
+            
                 A comprehensive review and evaluation of machine learning-based
                 approaches for identifying tumor T cell antigens
-              </b>
-              ,<i> Computational Biology and Chemistry</i>, Volume 118, 2025,
+              
+              ,<i> <b>[J]{" "} Computational Biology and Chemistry </b></i>, Volume 118, 2025,
               Article 108440.
             </p>
           </div>
@@ -322,12 +321,12 @@ const ResearchPublication = () => {
             <p className="max-w-[80%] break-words">
               W Shoombuatong, N Schaduangrat, N Homdee, <b>Saeed Ahmed</b>, P
               Chumnanpuen;
-              <b>
-                {" "}
+              
+        
                 Advancing the Accuracy of Anti-MRSA Peptide Prediction Through
                 Integrating MultiSource Protein Language Models
-              </b>
-              ,<i> Scientific Reports</i>, Volume 15, Issue 1, 2025, Pages 4762.
+              
+              ,<i> <b>[J]{" "}Scientific Reports </b></i>, Volume 15, Issue 1, 2025, Pages 4762.
               Nature Publishing Group UK.
             </p>
           </div>
@@ -351,8 +350,8 @@ const ResearchPublication = () => {
             <p className="max-w-[80%] break-words">
               M Kabir, <b>Saeed Ahmed</b>,H Zhang, I Rodríguez-Rodríguez, S M
               Najibi, M Vihinen; PON-P3: Accurate Prediction of Pathogenicity of
-              Amino Acid Substitutions,{" "}
-              <i>International Journal of Molecular Sciences</i>, Volume
+              Amino Acid Substitutions,
+              <i><b>[J]{" "} International Journal of Molecular Sciences </b></i>, Volume
               26,Issue , 25 February 2025, Pages 2004.
             </p>
           </div>
@@ -400,7 +399,7 @@ const ResearchPublication = () => {
                 <p className="max-w-[80%] break-words">
                   A Amjad, <b>Saeed Ahmed</b>,M Arif, T Alam, M Kabir*; A novel deep
                   learning identifier for promoters and their strength using
-                  heterogeneous features, <i>Methods</i>, Volume 230, October
+                  heterogeneous features, <i><b>[J]{" "} Methods </b></i>, Volume 230, October
                   2024, Pages 119-128.
                 </p>
               </div>
@@ -425,7 +424,7 @@ const ResearchPublication = () => {
                   M A Arshed, S Mumtaz, Stefan C Gherghina, N Urooj,{" "}
                   <b>Saeed Ahmed</b>, and C Dewi*; A Deep Learning Model for
                   Detecting Fake Medical Images to Mitigate Financial Insurance
-                  Fraud, <i>Computation</i> 2024, 12(9), 173.
+                  Fraud, <i><b> [J]{" "}Computation </b></i> 2024, 12(9), 173.
                 </p>
               </div>
             </li>
@@ -448,9 +447,9 @@ const ResearchPublication = () => {
                 <p className="max-w-[80%] break-words">
                   R Arif, <b>Saeed Ahmed</b>,S Kanwal, M Kabir*; A Computational
                   Predictor for Accurate Identification of Tumor Homing Peptides
-                  by Integrating Sequential and Deep BiLSTM Features. [J]{" "}
+                  by Integrating Sequential and Deep BiLSTM Features. 
                   <b>
-                    {" "}
+                    [J]{" "}
                     Interdisciplinary Sciences: Computational Life Sciences{" "}
                   </b>
                   , 2024, 1-16.
@@ -476,7 +475,7 @@ const ResearchPublication = () => {
                 <p className="max-w-[80%] break-words">
                   F Arshad, A Amjad, <b>Saeed Ahmed</b>, M Kabir*; An explainable
                   stacking-based approach for accelerating the prediction of
-                  antidiabetic peptides. [J] <b>Analytical Biochemistry</b>,
+                  antidiabetic peptides. <b>[J]{" "} Analytical Biochemistry</b>,
                   2024, 115546.
                 </p>
               </div>
@@ -500,9 +499,9 @@ const ResearchPublication = () => {
                 <p className="max-w-[80%] break-words">
                   S Kanwal,R Arif, <b>Saeed Ahmed</b> , M Kabir*; A novel
                   stacking-based predictor for accurate prediction of
-                  antimicrobial peptides. [J]{" "}
+                  antimicrobial peptides. 
                   <b>
-                    Journal of Biomolecular Structure and Dynamics, Taylor &amp;
+                   [J]{" "} Journal of Biomolecular Structure and Dynamics, Taylor &amp;
                     Francis{" "}
                   </b>
                   , 2024, 1-12
@@ -528,8 +527,8 @@ const ResearchPublication = () => {
                 <p className="max-w-[80%] break-words">
                   M A Arshed, H A Rehman, <b>Saeed Ahmed</b> , C Dewi, and H J
                   Christanto; A 16 × 16 Patch-Based Deep Learning Model for the
-                  Early Prognosis of Monkeypox from Skin Color Images. [J]{" "}
-                  <b>Computation - MDPI</b>, 2024, 12(2), 33
+                  Early Prognosis of Monkeypox from Skin Color Images.
+                  <b> [J]{" "}Computation - MDPI</b>, 2024, 12(2), 33
                 </p>
               </div>
             </li>
@@ -552,8 +551,8 @@ const ResearchPublication = () => {
                 <p className="max-w-[80%] break-words">
                   M. A. Arshed, S. Mumtaz,M. Ibrahim,C. Dewi ,M. Tanveer and{" "}
                   <b>Saeed Ahmed;</b> Multiclass AI-Generated Deepfake Face
-                  Detection Using Patch-Wise Deep Learning Model. [J]{" "}
-                  <b>Computers- MDPI</b> , 2024, 13(1), 31
+                  Detection Using Patch-Wise Deep Learning Model. 
+                  <b>[J]{" "} Computers- MDPI</b> , 2024, 13(1), 31
                 </p>
               </div>
             </li>
@@ -601,7 +600,7 @@ const ResearchPublication = () => {
                   Mehwish Gill, <b>Saeed Ahmad</b> ,Muhammad Kabir*, Maqsood
                   Hayat; A Novel Predictor for the Analysis and Prediction of
                   Enhancers and Their Strength via Multi-View Features and Deep
-                  Forest. [J] <b>Information - MDPI</b> , 2023, 14(12), 636
+                  Forest. <b> [J]{" "}Information - MDPI</b> , 2023, 14(12), 636
                 </p>
               </div>
             </li>
@@ -625,7 +624,7 @@ const ResearchPublication = () => {
                   M A Arshed, M Ibrahim, S Mumtaz, M Tanveer and <b>Saeed Ahmed</b>{" "}
                   ; Chem2Side: A Deep Learning Model with Ensemble Augmentation
                   (Conventional+ Pix2Pix) for COVID-19 Drug Side-Eﬀects
-                  Prediction from Chemical Images. [J] <b>Information - MDPI</b>
+                  Prediction from Chemical Images. <b>[J]{" "} Information - MDPI</b>
                   ,14.12(2023): 663
                 </p>
               </div>
@@ -650,7 +649,7 @@ const ResearchPublication = () => {
                   M. A. Arshed., S.Mumtaz, M.Ibrahim, <b>Saeed Ahmed</b>, M Tahir,
                   & M. Shaﬁ; Multi-class skin cancer classiﬁcation using vision
                   transformer networks and convolutional neural network-based
-                  pre-trained models. [J] <b>Information - MDPI</b> ,14(7), 415
+                  pre-trained models. <b>I[J]{" "} nformation - MDPI</b> ,14(7), 415
                 </p>
               </div>
             </li>
@@ -674,8 +673,8 @@ const ResearchPublication = () => {
                   Hina Alam, Muhammad Burhan, Anusha Gillani, Ihtisham ul Haq,
                   Muhammad Asad Arshed, Muhammad Shaﬁ, and <b>Saeed Ahmed</b> ;
                   IoT Based Smart Baby Monitoring System with Emotion
-                  Recognition Using Machine Learning [J]{" "}
-                  <b>Wireless Communications and Mobile Computing - Hindawi</b>{" "}
+                  Recognition Using Machine Learning 
+                  <b>[J]{" "}Wireless Communications and Mobile Computing - Hindawi</b>{" "}
                   ,Volume 2023 | Article ID 1175450
                 </p>
               </div>
@@ -724,8 +723,8 @@ const ResearchPublication = () => {
                   <b>Saeed Ahmed</b> , Muhammad Arif, Muhammad Kabir*, Khaistah
                   Khan, Yaser Daanial Khan; PredAoDP: Accurate identification of
                   antioxidant proteins by fusing different descriptors based on
-                  evolutionary information with support vector machine. [J]
-                  <b>Chemometrics and Intelligent Laboratory Systems</b> . 2022,
+                  evolutionary information with support vector machine.
+                  <b> [J]{" "} Chemometrics and Intelligent Laboratory Systems</b> . 2022,
                   228 - 104623
                 </p>
               </div>
@@ -751,7 +750,7 @@ const ResearchPublication = () => {
                   Julian MW Quinn, Mohammad Ali Moni, Pietro Lio’, Watshara
                   Shoombuatong*; AMYPred-FRL is a novel approach for accurate
                   prediction of amyloid proteins by using feature representation
-                  learning. [J] <b>Scientific reports</b> .Article number: 7697
+                  learning. <b>[J]{" "} Scientific reports</b> .Article number: 7697
                   (2022)
                 </p>
               </div>
@@ -777,7 +776,7 @@ const ResearchPublication = () => {
                   Mohammad Ali Moni, Md Mehedi Hasan, Pietro Lio’, Watshara
                   Shoombuatong*; SCORPION is a stacking-based ensemble learning
                   framework for accurate prediction of phage virion proteins.
-                  [J] <b> Scientific Reports</b> . Article number: 4106 (2022
+                  <b> [J]{" "} Scientific Reports</b> . Article number: 4106 (2022
                 </p>
               </div>
             </li>
@@ -802,7 +801,7 @@ const ResearchPublication = () => {
                   Yaser Daniaal Khan, Dong-Jun Yu*, Maha Thafar; StackACPred:
                   Prediction of anticancer peptides by integrating optimized
                   multiple feature descriptors with stacked ensemble approach.
-                  [J] <b>Chemometrics and Intelligent Laboratory Systems</b> .
+                  <b>[J]{" "} Chemometrics and Intelligent Laboratory Systems</b> .
                   2022, 220 - 10445815
                 </p>
               </div>
@@ -851,8 +850,8 @@ const ResearchPublication = () => {
                   <b>Saeed Ahmad</b>, Muhammad Kabir, Muhammad Arif, Zaheer
                   Ullah Khan, Dong-Jun Yu*; DeepPPSite: A deep learning based
                   model for analysis and prediction of phosphorylation sites
-                  using efficient sequence information. [J]{" "}
-                  <b>Analytical Biochemistry</b> . 2021, 612, 113955.
+                  using efficient sequence information. 
+                  <b>[J]{" "} Analytical Biochemistry</b> . 2021, 612, 113955.
                 </p>
               </div>
             </li>
@@ -876,9 +875,9 @@ const ResearchPublication = () => {
                   Muhammad Arif, Muhammad Kabir, <b>Saeed Ahmad</b> , Abid Khan,
                   Fang Ge, Adel Khelifi, Dong-Jun Yu DeepCPPred: a deep learning
                   framework for the discrimination of cell-penetrating peptides
-                  and their uptake efficiencies. [J]{" "}
+                  and their uptake efficiencies.
                   <b>
-                    IEEE/ACM Transactions on Computational Biology and
+                    [J]{" "} IEEE/ACM Transactions on Computational Biology and
                     Bioinformatics
                   </b>{" "}
                   . 2022, 19(5), page(s) 2749-2759.
@@ -930,8 +929,8 @@ const ResearchPublication = () => {
                   Ali, Zar Nawab Khan Swati; Prediction of human phosphorylated
                   proteins by extracting multi-perspective discriminative
                   features from the evolutionary profile and physicochemical
-                  properties through LFDA. [J]{" "}
-                  <b>Chemometrics and Intelligent Laboratory Systems</b> . 2020,
+                  properties through LFDA.
+                  <b>[J] {" "} Chemometrics and Intelligent Laboratory Systems</b> . 2020,
                   203, 104066.
                 </p>
               </div>
@@ -956,8 +955,8 @@ const ResearchPublication = () => {
                   Muhammad Arif, <b>Saeed Ahmad</b> , Farman Ali, Ge Fang, Min
                   Li, Dong-Jun Yu*; TargetCPP: accurate prediction of
                   cell-penetrating peptides from optimized multi-scale features
-                  using gradient boost decision tree. [J]{" "}
-                  <b>Journal of computer-aided molecular design</b> . Volume 34,
+                  using gradient boost decision tree. 
+                  <b> [J] {" "} Journal of computer-aided molecular design</b> . Volume 34,
                   pages 841–856, (2020).9.
                 </p>
               </div>
@@ -983,7 +982,7 @@ const ResearchPublication = () => {
                   Kabir, Zakir Ali, Maqsood Hayat*; Pred-BVP-Unb: Fast
                   Prediction of Bacteriophage Virion Proteins Using Un-biased
                   Multi-perspective Properties with Recursive Feature
-                  Elimination. [J] <b>Genomics</b> . 2020, 112(2):1565-1574.
+                  Elimination. <b> [J] {" "}Genomics</b> . 2020, 112(2):1565-1574.
                 </p>
               </div>
             </li>
@@ -1007,7 +1006,7 @@ const ResearchPublication = () => {
                   Muhammad Kabir*, Muhammad Iqbal, <b>Saeed Ahmad</b> , Maqsood
                   Hayat*; iNR-2L: A two-level sequence-based predictor developed
                   via Chou’s 5-steps rule and general PseAAC for identifying
-                  nuclear receptors and their families. [J] <b>Genomics</b> .
+                  nuclear receptors and their families. <b> [J] {" "}Genomics</b> .
                   2020, 112(1):276-285.
                 </p>
               </div>
@@ -1033,7 +1032,7 @@ const ResearchPublication = () => {
                   <b>Saeed Ahmad</b> , Dong-Jun Yu*; SDBP-Pred: Prediction of
                   single-stranded and double-stranded DNA-binding proteins by
                   extending consensus sequence and K-segmentation strategies
-                  into PSSM. [J] <b>Analytical Biochemistry</b> . 2020,
+                  into PSSM. <b> [J] {" "}Analytical Biochemistry</b> . 2020,
                   589:113494.
                 </p>
               </div>
@@ -1082,8 +1081,7 @@ const ResearchPublication = () => {
                   Zar Nawab Khan Swati, Qinghua Zhao, <b>Muhammad Kabir</b> ,
                   Farman Ali, Zakir Ali, <b>Saeed Ahmed</b> , Jianfeng Lu*;
                   Brain Tumor Classification for MR Images using Transfer
-                  Learning and Fine-Tuning. [J] <b>Computerized Medical</b>{" "}
-                  <b>Imaging and Graphics</b> . 2019, 75:34-46.
+                  Learning and Fine-Tuning.  <b> [J] {" "}Computerized Medical Imaging and Graphics</b> . 2019, 75:34-46.
                 </p>
               </div>
             </li>
@@ -1107,8 +1105,8 @@ const ResearchPublication = () => {
                   Farman Ali,<b>Saeed Ahmed</b> , Zar Nawab Khan Swati, Shahid
                   Akbar; DP-BINDER: machine learning model for prediction of
                   DNA-binding proteins by fusing evolutionary and
-                  physicochemical information. [J]{" "}
-                  <b>Journal of Computer-Aided Molecular Designs</b> . Volume
+                  physicochemical information. 
+                  <b>[J]{" "} Journal of Computer-Aided Molecular Designs</b> . Volume
                   33, pages 645–658, (2019)
                 </p>
               </div>
@@ -1134,7 +1132,7 @@ const ResearchPublication = () => {
                   Nasir Islam Sujan, <b>Saeed Ahmed</b> ; iDTi-CSsmoteB:
                   identification of drug–target interaction based on drug
                   chemical structure and protein sequence using XGBoost with
-                  over-sampling technique SMOTE. [J] <b>IEEE Access</b> . vol.
+                  over-sampling technique SMOTE. [J] <b> [J]{" "} IEEE Access</b> . vol.
                   7, pp. 48699-48714, 2019.
                 </p>
               </div>
@@ -1159,7 +1157,7 @@ const ResearchPublication = () => {
                   Zar Nawab Khan Swati, Qinghua Zhao, Muhammad Kabir, Farman
                   Ali, Zakir Ali, <b>Saeed Ahmed</b> , Jianfeng Lu*;
                   Content-Based Brain Tumor Retrieval for MR Images Using
-                  Transfer Learning. [J] IEEE Access. 2019, 7(1):17809-17822.
+                  Transfer Learning. <b>[J]{" "} IEEE Access </b>, 2019, 7(1):17809-17822.
                 </p>
               </div>
             </li>
@@ -1180,10 +1178,10 @@ const ResearchPublication = () => {
                   />
                 </svg>
                 <p className="max-w-[80%] break-words">
-                  Muhammad Kabir, Muhammad Arif, Farman Ali, <b>Saeed Ahmad</b>{" "}
-                  , Zar Nawab Khan Swati, Dong-Jun Yu*; Prediction of membrane
+                  Muhammad Kabir, Muhammad Arif, Farman Ali, <b>Saeed Ahmad</b>
+                  ,Zar Nawab Khan Swati, Dong-Jun Yu*; Prediction of membrane
                   protein types by exploring local discriminative information
-                  from evolutionary profiles. [J] <b>Analytical Biochemistry</b>{" "}
+                  from evolutionary profiles. <b>  [J]{" "} Analytical Biochemistry</b>
                   . 2019, 564-565:123-132.
                 </p>
               </div>
@@ -1232,8 +1230,8 @@ const ResearchPublication = () => {
                   <b>Saeed Ahmad*</b> , Muhammad Kabir, Zakir Ali, Muhammad
                   Arif, Farman Ali, Dong-Jun Yu; An Integrated Feature Selection
                   algorithm for Cancer Classification using Gene Expression
-                  Data. [J]
-                  <b>Combinatorial Chemistry &amp; High Throughput Screening</b>{" "}
+                  Data.
+                  <b>  [J]{" "} Combinatorial Chemistry &amp; High Throughput Screening</b>{" "}
                   . 2018, 21(9):631-645.
                 </p>
               </div>
@@ -1259,8 +1257,8 @@ const ResearchPublication = () => {
                   Ali, Farman Ali, Zar Nawab Khan Swati; Improving secretory
                   proteins prediction in Mycobacterium tuberculosis using the
                   unbiased dipeptide composition with support vector machine.
-                  [J]{" "}
-                  <b>International Journal of Data Mining and Bioinformatics</b>{" "}
+                 
+                  <b> [J]{" "} International Journal of Data Mining and Bioinformatics</b>{" "}
                   . 2018,21(3):212-229.
                 </p>
               </div>
@@ -1286,8 +1284,8 @@ const ResearchPublication = () => {
                   Ali, Zar Nawab Khan Swati, Dong-Jun Yu*; Intelligent
                   computational method for discrimination of anticancer peptides
                   by incorporating sequential and evolutionary profiles
-                  information. [J]{" "}
-                  <b>Chemometrics and Intelligent Laboratory Systems</b> . 2018,
+                  information. 
+                  <b> [J]{" "} Chemometrics and Intelligent Laboratory Systems</b> . 2018,
                   182:158-165.
                 </p>
               </div>
@@ -1313,8 +1311,8 @@ const ResearchPublication = () => {
                   Khan Swati, Zi Liu, Dong-Jun Yu*; Improving prediction of
                   extracellular matrix proteins using evolutionary information
                   via a grey system model and asymmetric under-sampling
-                  technique. [J]{" "}
-                  <b>Chemometrics and Intelligent Laboratory Systems</b>. 2018,
+                  technique. 
+                  <b>  [J]{" "} Chemometrics and Intelligent Laboratory Systems</b>. 2018,
                   174; 22-32.
                 </p>
               </div>
@@ -1360,11 +1358,11 @@ const ResearchPublication = () => {
                   />
                 </svg>
                 <p className="max-w-[80%] break-words">
-                  Muslim Khan, Maqsood Hayat, Sher Afzal Khan,{" "}
+                  Muslim Khan, Maqsood Hayat, Sher Afzal Khan,
                   <b>Saeed Ahmad</b> , Nadeem Iqbal; Bi-PSSM: Position specific
-                  scoring matrix based intelligent computational model for
-                  identification of mycobacterial membrane proteins. [J]{" "}
-                  <b>Journal of Theoretical Biology</b> . 2017, 435; 116-124.
+                  scoring matrix-based intelligent computational model for
+                  Identification of mycobacterial membrane proteins.
+                  <b>[J]{" "} Journal of Theoretical Biology</b> . 2017, 435; 116-124.
                 </p>
               </div>
             </li>
@@ -1412,7 +1410,7 @@ const ResearchPublication = () => {
                   Muhammad Kabir, Muhammad Iqbal, <b> Saeed Ahmad</b>, Maqsood
                   Hayat*; iTIS-PseKNC: Identification of Translation Initiation
                   Site in human genes using pseudo k-tuple nucleotides
-                  composition. [J] <b>Computers in Biology and Medicine</b> .
+                  composition. [J] <b> [J]{" "} Computers in Biology and Medicine</b> .
                   2015, 66: 252-257.
                 </p>
               </div>
@@ -1437,8 +1435,8 @@ const ResearchPublication = () => {
                   <b>Saeed Ahmad</b> , Muhammad Kabir, Maqsood Hayat*;
                   Identification of Heat Shock Protein Families and J-Protein
                   Types by incorporating Dipeptide Composition into Chou&apos;s
-                  general PseAAC. [J]{" "}
-                  <b>Computer Methods and Programs in Biomedicine</b>. 2015,
+                  general PseAAC. 
+                  <b> [J]{" "} Computer Methods and Programs in Biomedicine</b>. 2015,
                   122: 165-174.
                 </p>
               </div>
@@ -1486,9 +1484,9 @@ const ResearchPublication = () => {
                   Adil Yousaf, Muhammad Rashid Rasheed, Muhammad Arif, Abdullah
                   Yousafzai, Muhammad Kabir, <b>Saeed Ahmed*</b>; Recent
                   advancements in predicting protein phosphorylation sites using
-                  machine learning methods. [C]{" "}
+                  machine learning methods. 
                   <b>
-                    2021 International Conference on Innovative Computing (ICIC)
+                    [C]{" "} 2021 International Conference on Innovative Computing (ICIC)
                     -IEEE
                   </b>{" "}
                   . 2021, 1-6.
@@ -1515,9 +1513,9 @@ const ResearchPublication = () => {
                   Muhammad Rashid Rasheed, Mehwish Gill, Muhammad Asif Subhani,
                   Muhammad Arif, <b>Saeed Ahmed</b> , Muhammd Kabir;
                   Comprehensive analysis of machine learning based predictors
-                  for identifying DNase I hypersensitive site. [C]{" "}
+                  for identifying DNase I hypersensitive site. 
                   <b>
-                    2021 International Conference on Innovative Computing (ICIC)
+                   [C]{" "} 2021 International Conference on Innovative Computing (ICIC)
                     -IEEE
                   </b>
                   . 2021, 1-6.
