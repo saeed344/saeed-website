@@ -242,7 +242,7 @@ const ResearchPublication = () => {
       <ol>
         {publications2026.map(renderPublication)}
       </ol>
-      </li> }
+      </li> 
       <ol className="relative w-full mx-5 md:mx-10 dark:border-gray-700">
         {/* 2025 Publications */}
         <li data-aos="fade-up" className="mb-5 ms-6">
