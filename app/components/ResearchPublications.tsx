@@ -217,9 +217,9 @@ const ResearchPublication = () => {
       className="bg-white shadow-2xl py-3 overflow-hidden rounded text-justify"
     >
       <h1 className="text-2xl mb-2 pl-4">Research Publications:</h1>
-      {{/* 2026 Publications */}
-      {/*<li data-aos="fade-up" className="mb-5 ms-6">*/}
-      {*/ <span className="absolute flex items-center justify-center w-6 h-6 bg-blue-100 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">*/}
+      {/* 2026 Publications */}
+      <li data-aos="fade-up" className="mb-5 ms-6">
+      / <span className="absolute flex items-center justify-center w-6 h-6 bg-blue-100 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">
         <svg
           className="w-8 h-8 text-blue-800 dark:text-blue-300"
           viewBox="0 0 24 24"
