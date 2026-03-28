@@ -50,7 +50,7 @@ const ResearchPublication = () => {
               />
             </svg>
             <p className="max-w-[80%] break-words">
-              S Ahmed, N Schaduangrat, C Pipattanaboon, W Shoombuatong
+             <b>Saeed Ahmed</b>, N Schaduangrat, C Pipattanaboon, W Shoombuatong
               <b>
                 {" "}
                 Accurate identification of broadly neutralizing antibodies against dengue virus based on deep stacking strategy with multi-perspective features
@@ -848,7 +848,7 @@ const ResearchPublication = () => {
                   />
                 </svg>
                 <p className="max-w-[80%] break-words">
-                  Saeed Ahmad, <b>Muhammad Kabir</b> , Muhammad Arif, Zaheer
+                  <b>Saeed Ahmad</b>, Muhammad Kabir, Muhammad Arif, Zaheer
                   Ullah Khan, Dong-Jun Yu*; DeepPPSite: A deep learning based
                   model for analysis and prediction of phosphorylation sites
                   using efficient sequence information. [J]{" "}
@@ -926,7 +926,7 @@ const ResearchPublication = () => {
                   />
                 </svg>
                 <p className="max-w-[80%] break-words">
-                  <b>Saeed Ahmad</b> , Muhammad Kabir*, Muhammad Arif, Zakir
+                  <b>Saeed Ahmad</b>, Muhammad Kabir*, Muhammad Arif, Zakir
                   Ali, Zar Nawab Khan Swati; Prediction of human phosphorylated
                   proteins by extracting multi-perspective discriminative
                   features from the evolutionary profile and physicochemical
@@ -1255,7 +1255,7 @@ const ResearchPublication = () => {
                   />
                 </svg>
                 <p className="max-w-[80%] break-words">
-                  <b>Saeed Ahmad</b> *, Muhammad Kabir*, Muhammad Arif, Zakir
+                  <b>Saeed Ahmad*</b>, Muhammad Kabir, Muhammad Arif, Zakir
                   Ali, Farman Ali, Zar Nawab Khan Swati; Improving secretory
                   proteins prediction in Mycobacterium tuberculosis using the
                   unbiased dipeptide composition with support vector machine.
@@ -1282,7 +1282,7 @@ const ResearchPublication = () => {
                   />
                 </svg>
                 <p className="max-w-[80%] break-words">
-                  Muhammad Kabir, Muhammad Arif, <b> Saeed Ahmad</b>*, Zakir
+                  Muhammad Kabir, Muhammad Arif, <b> Saeed Ahmad*</b>, Zakir
                   Ali, Zar Nawab Khan Swati, Dong-Jun Yu*; Intelligent
                   computational method for discrimination of anticancer peptides
                   by incorporating sequential and evolutionary profiles
@@ -1484,7 +1484,7 @@ const ResearchPublication = () => {
                 </svg>
                 <p className="max-w-[80%] break-words">
                   Adil Yousaf, Muhammad Rashid Rasheed, Muhammad Arif, Abdullah
-                  Yousafzai, Muhammad Kabir, <b>Saeed Ahmed</b> *; Recent
+                  Yousafzai, Muhammad Kabir, <b>Saeed Ahmed*</b>; Recent
                   advancements in predicting protein phosphorylation sites using
                   machine learning methods. [C]{" "}
                   <b>
